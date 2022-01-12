@@ -1,0 +1,65 @@
+body {
+	background-color: darkred;
+}
+h3 {
+	color: AliceBlue ;
+	border: 3px ;
+	border-color: AliceBlue;
+	border-style: dotted ;
+	font-size: 25px;
+	padding: 0px 0px 0px 600px;
+	font-style: italic;
+	
+}
+hr {
+	background-color: AliceBlue;
+	border-style: none ;
+	height: 3px;
+}
+ul {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: AliceBlue;
+ 
+
+}
+ol {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: AliceBlue;
+}
+
+#name {
+	padding: 0px 0px 50px 600px;
+	color: AliceBlue;
+	font-style: italic;
+
+}
+#about {
+	color: AliceBlue;
+	padding: 0px 0px 50px 400px;
+	 display: flex;
+	   position: static;
+  border: 4px inset; 
+  border-color:ghostwhite;
+  font-size: 20px;
+  
+
+}
+#Courses {
+	  position: static;
+  border: 4px inset; 
+  border-color: ghostwhite;
+  font: fantasy;
+
+}
+#hobbies {
+	  position: static;
+  border: 4px inset; 
+  border-color: ghostwhite;
+
+}
